@@ -1,2 +1,2 @@
-# hallo_world
+# hello_world
 初心者
